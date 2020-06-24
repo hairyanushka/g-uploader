@@ -2,6 +2,8 @@
 
 A simple node web server that helps user to download files from web and upload to Google Drive.
 
+Credits : https://github.com/trulyshelton
+
 ## Getting Started
 
 Simply clone the repo to your local or your host machine. You can, if you want to, use Docker to host the app instead.
